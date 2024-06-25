@@ -1,0 +1,16 @@
+[
+  {
+    "address": "japan",
+    "books": [
+      {
+        "author": "F. Scott. Fitzgerald",
+        "title": "El Gran Gatsby"
+      }
+    ],
+    "phone": "9998765654654",
+    "last_name": "nagata",
+    "first_name": "smokey",
+    "age": "55",
+    "email": "smokey@nagata.com"
+  }
+]
